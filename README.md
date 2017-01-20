@@ -7,7 +7,7 @@ Ejemplo de implementacion<br><br>
 
 View<br><br>
 
-<message-box></message-box><br><br>
+'\<message-box></message-box>\'<br><br>
 
 Script<br><br>
 
